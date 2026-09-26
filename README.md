@@ -1,7 +1,5 @@
 # 🎮🧑‍🤝‍🧑🧩 NPC — Need Pamong Context
-![Uploading image.png…]()
-
-
+<img width="1280" height="618" alt="image" src="https://github.com/user-attachments/assets/00f1a3dc-0c0a-442a-805d-9bdc140b9a2e" />
 
 > **“I’ve seen this person before… but who are they again?”**
 
@@ -11,6 +9,7 @@ The idea came from a simple problem: recognizing someone is not quite the same a
 NPC turns that awkward *“I know that face”* moment into something a little more playable.
 
 > **Learn the face. Remember the name. Get the context.**
+<img width="2101" height="1540" alt="image" src="https://github.com/user-attachments/assets/3737d94b-72c9-4feb-90d9-e0c362febc3f" />
 
 ---
 
@@ -49,7 +48,7 @@ In other words:
 - 🏆 **Hall of Legends** — see how your score stacks up.
 - ❤️ **Revival System** — because one wrong answer shouldn't end the story.
 - 🏅 **Milestones & Achievements** — track progress beyond just getting the answers right.
-- 🎻** Bardcore Soundtrack** — because apparently, learning about Pamong is better with medieval music playing in the background.
+- 🎻 **Bardcore Soundtrack** — because apparently, learning about Pamong is better with medieval music playing in the background.
 
 ---
 
