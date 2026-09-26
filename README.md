@@ -1,5 +1,6 @@
 # 🎮🧑‍🤝‍🧑🧩 NPC — Need Pamong Context
-<img width="1825" height="907" alt="image" src="https://github.com/user-attachments/assets/a96b0418-5853-48a5-8fc6-2d450c783fb5" />
+![Uploading image.png…]()
+
 
 
 > **“I’ve seen this person before… but who are they again?”**
